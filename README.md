@@ -58,7 +58,7 @@ Captcha toplama işlemleriden ibarettir.
 
 ## İletişim
 
-- İletişim e-posta: [businnes@l1ve709.com](mailto:businnes@l1ve709.com)
+- İletişim e-posta: [businnes@l1ve709.com](mailto:github@l1ve709.com)
 - Instagram: [l1ve709](https://www.instagram.com/l1ve709)
 
 ## Geliştirici
