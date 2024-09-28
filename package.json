@@ -1,0 +1,25 @@
+{
+    "name": "discord-captcha",
+    "version": "1.0.0",
+    "description": "Discord verification bot with math captcha.",
+    "main": "index.js",
+    "type": "module", 
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "discord",
+      "captcha",
+      "bot",
+      "guard bot",
+      "node.js bot"
+    ],
+    "author": "l1ve709",
+    "license": "ISC",
+    "dependencies": {
+      "canvas": "^2.9.0",
+      "discord.js": "^14.0.0",
+      "random-int": "^1.0.1"
+    }
+  }
+  
