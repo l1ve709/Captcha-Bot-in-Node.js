@@ -1,5 +1,4 @@
 
-```markdown
 # Discord CAPTCHA Botu
 
 Bu proje node.js diliyle yazılmış, Discord sunucularında kullanıcıların doğrulamasını sağlamak için bir CAPTCHA botudur. Bot, yeni bir üye katıldığında bir CAPTCHA sorusu oluşturur ve bu CAPTCHA nın çözülmesi gerekmektedir.
